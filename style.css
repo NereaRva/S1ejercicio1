@@ -1,0 +1,54 @@
+#enlaces{
+    margin-left: 200px;
+    display: flex;
+    justify-content: end;
+    gap: 20px;
+}
+h2{
+    color: orange;
+}
+button{
+    color: white;
+    background: orange;
+}
+header{
+    display: flex;
+    width: 100%;
+}
+.banner{
+    text-align: center;
+}
+table{
+    text-align: center;
+    margin: auto;
+}
+a{
+    text-decoration: none;
+}
+li{
+    list-style: none;
+}
+ul{
+    display: flex;
+    justify-content: center;
+    gap: 20px
+    ;
+}
+.reserva{
+    display: flex;
+}
+#titulo{
+    text-align: center;
+}
+.articulos{
+    display: flex;
+}
+button{
+    display: flex;
+    justify-content: center;
+}
+.flex{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
